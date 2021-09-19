@@ -26,9 +26,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: installing node 
-        uses: setup-node@v2
+        uses: actions/setup-node@v2
         with: 
-          node-version: 12
+          node-version: '14'
 
       # Runs a set of commands using the runners shell
       - name: installing surge

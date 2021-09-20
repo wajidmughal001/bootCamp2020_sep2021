@@ -1,0 +1,20 @@
+.center{
+    margin-top: 200px;
+    padding-left: 400px;
+}
+.center h1{
+    color:white;
+    font-size: 70px;
+}
+.center p{
+    color:blue;
+    font-size: 20px;
+    padding-left: 100px;
+}
+.about{
+    text-align: center;
+    color: white;
+    margin-top: 250px;
+    font-size: 30px;
+    justify-content: center;
+}

@@ -1,15 +1,23 @@
 .center{
-    margin-top: 200px;
-    padding-left: 400px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-top: 200px;
+    /* margin-top: 200px;
+    padding-left: 400px; */
 }
 .center h1{
     color:white;
     font-size: 70px;
 }
 .center p{
-    color:blue;
+    /* color:blue;
     font-size: 20px;
-    padding-left: 100px;
+    padding-left: 100px; */
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-top: 200px;
 }
 .about{
     text-align: center;
